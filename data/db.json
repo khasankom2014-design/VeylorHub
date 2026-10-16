@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "usr_veylor_owner",
+      "name": "Veylor",
+      "email": "khasankom2014@yandex.ru",
+      "passwordHash": "veylor2026",
+      "avatar": "",
+      "title": "Основатель & Lead Architect",
+      "role": "owner",
+      "status": "active_member",
+      "permissions": {
+        "canManageTasks": true,
+        "canCreateProjects": true,
+        "canPostUpdates": true
+      },
+      "joinedAt": "2026-10-14T21:18:00.000Z",
+      "createdAt": "2026-10-14T21:18:00.000Z",
+      "bio": "Разработка и управление экосистемой Veylor Labs",
+      "contacts": {}
+    }
+  ],
+  "invites": [],
+  "projects": [],
+  "tasks": [],
+  "updates": [],
+  "auditLogs": [
+    {
+      "id": "log_init",
+      "actorId": "usr_veylor_owner",
+      "actorName": "Veylor",
+      "action": "PLATFORM_INITIALIZED",
+      "details": "Платформа Veylor Labs готова к работе.",
+      "timestamp": "2026-10-16T00:00:00.000Z"
+    }
+  ],
+  "codeFiles": [],
+  "messages": []
+}

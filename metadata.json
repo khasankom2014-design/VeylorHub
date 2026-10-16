@@ -1,0 +1,8 @@
+{
+  "name": "Veylor Labs",
+  "description": "Платформа совместной разработки проектов, задач, редактора кода с ИИ и мессенджера для команд.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
